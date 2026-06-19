@@ -15,10 +15,10 @@
 class Atlas < Formula
   desc "Agentic Harness Standard — 10–30× fewer agent orientation tokens. Zero infrastructure."
   homepage "https://github.com/Abbasi-Alain/atlas"
-  url "https://github.com/Abbasi-Alain/atlas/archive/refs/tags/v0.2.0.tar.gz"
-  sha256 "aa56bb25aaece25ff7d6876a8371d2e833e108b73f0e7cf28fc860c3e1f7756e"
+  url "https://github.com/Abbasi-Alain/atlas/archive/refs/tags/v0.3.0.tar.gz"
+  sha256 "dfa8dc1d48dee4d1a0f345ee7986e4d2bcc307d0094fbb8bf1eb15c7c4685ee2"
   license "MIT"
-  version "0.2.0"
+  version "0.3.0"
 
   # Pure bash; no compile step.
   depends_on "bash"
